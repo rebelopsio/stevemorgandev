@@ -387,7 +387,7 @@ section .title::after {
 }
 
 .contact .contact-content .column {
-    width: calc(50% - 30px);
+    width: calc(33% - 50px);
 }
 
 .contact .contact-content .text {
@@ -400,7 +400,11 @@ section .title::after {
     text-align: justify;
 }
 
-.contact .contact-content .left .icons {
+.contact .contact-content .center .icons {
+    margin: 10px 0;
+}
+
+.contact .contact-content .right .icons {
     margin: 10px 0;
 }
 
@@ -498,9 +502,7 @@ section .title::after {
     background: none;
 }
 
-.column.right {
-    padding-top: 130px;
-}
+
 
 /* footer section styling */
 footer {
