@@ -605,6 +605,10 @@ footer span a:hover {
         margin: 0 auto 60px;
     }
 
+    .about .about-content .center {
+        flex: 100%;
+    }
+
     .about .about-content .right {
         flex: 100%;
     }
