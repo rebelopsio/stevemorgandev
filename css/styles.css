@@ -361,23 +361,23 @@ section .title::after {
     background: #f05123;
 }
 
-.skills-content .right .csharp::before {
-    width: 40%;
-}
-
 .skills-content .right .python::before {
-    width: 30%;
-}
-
-.skills-content .right .powershell::before {
-    width: 80%;
+    width: 60%;
 }
 
 .skills-content .right .terraform::before {
-    width: 30%;
+    width: 50%;
 }
 
-.skills-content .right .docker::before {
+.skills-content .right .powershell::before {
+    width: 60%;
+}
+
+.skills-content .right .ansible::before {
+    width: 50%;
+}
+
+.skills-content .right .cloudformation::before {
     width: 30%;
 }
 
