@@ -369,7 +369,7 @@ section .title::after {
     width: 50%;
 }
 
-.skills-content .right .powershell::before {
+.skills-content .right .bash::before {
     width: 60%;
 }
 
